@@ -1,0 +1,1 @@
+Need skriptid arvutavad KÜ kommunaalarvete põhjal veearvete tasaarvelduse arvestades juba makstud summasid. Koodi jooksutamiseks on vaja alla laadida nii koodifailid kui ka kaustade sturktuur. Või kui kasutada teistsugust kaustasüsteemi, tuleb lihtsalt koode muuta. 
